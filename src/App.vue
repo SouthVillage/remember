@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <!--header-->
-    <mt-header fixed title="固定在顶部"></mt-header>
+    <mt-header fixed title="想不起名字"></mt-header>
     <!--main-->
   
     	<nav class="mui-bar mui-bar-tab"> 
